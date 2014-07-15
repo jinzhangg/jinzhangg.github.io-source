@@ -33,10 +33,9 @@ DEFAULT_PAGINATION = 7
 THEME = 'pelican-svbtle'
 
 AUTHOR_BIO = 'Python and Flask Developer'
-SUMMARY_MAX_LENGTH = 150
+SUMMARY_MAX_LENGTH = 100
 
 ARTICLE_URL = 'posts/{date:%Y}/{slug}/'
 ARTICLE_SAVE_AS = 'posts/{date:%Y}/{slug}/index.html'
 PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
-
