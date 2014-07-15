@@ -1,0 +1,8 @@
+*.py[cod]
+*.~
+
+# PyCharm
+.idea
+
+# GitHub Pages are stored in /output
+output
